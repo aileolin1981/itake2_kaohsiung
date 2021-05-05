@@ -75,7 +75,7 @@ body {
     background-image: url(../img/ic-tabs-big.png);
     border: none;
     background-color: none;
-    /* background: rgba(0, 0, 0, 0); */
+    background: rgba(0, 0, 0, 0);
 
 
 
@@ -89,6 +89,6 @@ body {
     left: 220px;
     border: none;
     background-color: none;
-    /* background: rgba(0, 0, 0, 0); */
+    background: rgba(0, 0, 0, 0);
 
 }
